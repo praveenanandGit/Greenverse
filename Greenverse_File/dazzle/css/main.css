@@ -67,7 +67,7 @@ body {
 }
 
 body {
-  background: #141515;
+  background: #000000;
   font-family: "muli-regular", sans-serif;
   font-size: 1.6rem;
   line-height: 1.875;
@@ -1126,7 +1126,7 @@ h1.intro-header::before {
 #header {
   width: 100%;
   height: 100px;
-  background-color: #000000;
+  background-color: #00000052;
   position: fixed;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -1159,9 +1159,9 @@ h1.intro-header::before {
   outline: 0;
   border: none;
   width: 97px;
-  height: 72px;
+  height: 97px;
   background: url("../images/logoairpng.png") no-repeat center;
-  background-size: 220px 160px;
+  background-size: 220px 205px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -1266,7 +1266,7 @@ h1.intro-header::before {
 
 #header-nav-wrap {
   font-family: "montserrat-medium", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   position: absolute;
   top: 0;
   right: 40px;
@@ -2520,21 +2520,21 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 #download .download-badges li a {
   display: block;
   width: 230px;
-  height: 71px;
+  height: 130px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 230px 71px;
+  background-size: 230px 140px;
 }
 
 #download .download-badges li a.badge-appstore {
-  background-image: url("../images/download\ \(1\)\ \(600\ x\ 186\).jpg");
+  background-image: url("../images/download\ \(1\)\ \(600\ x\ 332\).jpg");
 }
 
 #download .download-badges li a.badge-googleplay {
-  background-image: url("../images/download\ \(2\)\ \(600\ x\ 186\).jpg");
+  background-image: url("../images/download\ \(2\)\ \(600\ x\ 332\).jpg");
 }
 
 
