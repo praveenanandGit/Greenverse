@@ -1126,7 +1126,7 @@ h1.intro-header::before {
 #header {
   width: 100%;
   height: 100px;
-  background-color: #00000052;
+  background-color: #fffefee1;
   position: fixed;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -1292,16 +1292,16 @@ h1.intro-header::before {
 
 #header-nav-wrap .header-main-nav li a,
 #header-nav-wrap .header-main-nav li a:visited {
-  color: rgba(255, 255, 255, 0.45);
+  color: rgba(0, 0, 0, 0.842);
 }
 
 #header-nav-wrap .header-main-nav li a:hover,
 #header-nav-wrap .header-main-nav li a:focus {
-  color: #ffffff;
+  color: #2dc70f;
 }
 
 #header-nav-wrap .header-main-nav li.current a {
-  color: #ffffff;
+  color: #000000;
 }
 
 #header-nav-wrap .cta {
